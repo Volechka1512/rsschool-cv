@@ -1,5 +1,10 @@
-1. Nalgacheva Olga;
-2. Email: nalgaheva@gmail.com;
-3. I work as a chief accountant;
-4. Not very good with English, but I'm learning;
-5. Higher education.
+##  Nalgacheva Volha
+###  Contacts
+- tel: +375293073180
+- gmail: nalgaheva@gmail.com
+###  Job
+- Chief Accountant
+###  Education
+ISZ
+###  английский
+very bad, I teach
