@@ -1,2 +1,2 @@
 # rsschool-cv
-https://xn--1512-43dlv4bh3a5h.github.io/rsschool-cv/cv
+https://Волечка1512.github.io/rsschool-cv/cv
